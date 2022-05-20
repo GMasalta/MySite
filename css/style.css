@@ -20,7 +20,7 @@ body     {
 .hero           {
   min-height: 800px;
   text-align: center;
-  background-image: url('../image/bg.jpeg');
+  background-image: url('../img/bg.jpeg');
   background-size: cover;
 }
 .hero-content   {
